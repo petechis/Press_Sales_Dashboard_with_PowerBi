@@ -3,8 +3,7 @@
 ### *Interactive Analytics for Press Media Wholesale Distribution*
 
 <!-- Language Anchors -->
-
-**Get Translated Version:** [German](./translations/DE/README.md) | [English](README.md)
+**Übersetzte Version abrufen:** [Deutsch](README.md) | [Englisch](../EN/README.md)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -12,121 +11,6 @@
 ![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-white)
 ![Career](https://img.shields.io/badge/Career%20Transition-Software%20Dev%20→%20BI-orange)
 ![Career](https://img.shields.io/badge/Purpose%20|Goal-Data%20Driven%20Analysis→%20Smart%20Decision%20Making-green)
-
----
-
-## 🇬🇧 English
-
-### 🧠 **Project Overview**
-
-This Power BI dashboard demonstrates an --end-to-end Business Intelligence use case--, transforming raw transactional data into --actionable sales insights-- for a simulated press media wholesale distributor.
-
----
-
-### 📰 **Business Scenario**
-
-A regional wholesale distributor acts as an intermediary between **publishing companies** and **retail outlets** such as railway station shops, filling stations, discounters, and kiosks.
-
-Press media products have a **highly perishable lifecycle**—unsold copies become **remissions** after a strict cutoff period (e.g. evening newspapers after midday the following day).
-
----
-
-### 🎯 **Business Use Case**
-
-Key stakeholders including **CEO**, **Sales Management**, and **Account Managers** require **quarterly performance insights** to:
-
-- Optimize distribution volumes  
-- Increase profitability  
-- Reduce unsold inventory (remissions)  
-
----
-
-### 🗄️ **Data Model & ETL**
-
-From a **190-column transactional dataset**, an analytics-ready data model was created using ETL principles.  
-Only **business-critical attributes** were retained for reporting and visualization.
-
-#### 🔑 **Vital Variables**
-
-- **Order_ID** – unique identifier per article  
-- **Amount** – supplied quantity to retail outlets  
-- **Quantity** – actual sales to end customers  
-- **Profit** – net profit per product and outlet  
-- **Category** – retail channel  
-- **Sub-Category** – press media type  
-- **Publishing Company** – supplier  
-
----
-
-### 👤 **Role as Data Analyst**
-
-- Definition of KPIs aligned with business objectives  
-- Translation of data into **decision-ready insights**  
-- Development of **data-driven storytelling**  
-
----
-
-### 📌 **Key Performance Indicators (KPIs)**
-
-- **Profit by Product Sub-Category**  
-- **Quantity supplied by Publishing Company**  
-- **Quantity distributed by Retail Category**  
-- **Amount supplied per Product Name**  
-- **Quarterly Profit (Q1–Q4)**  
-
----
-
-### 📈 **Data Visualizations & Storytelling**
-
-#### 🔢 **KPI Cards**
-
-- Total **Supplied Quantity**  
-- Total **Sales Quantity**  
-- Total **Profit**  
-
-#### 📊 **Bar Charts**
-
-- Profit and Amount by:
-
-  - Category  
-  - Sub-Category  
-  - Product Name  
-
-#### 🥧 **Pie Charts**
-
-- Distribution share by:
-
-  - Retail category  
-  - Publishing company  
-
----
-
-### 🎥 **Interactive KPI Demonstration**
-
-```md
-![Power BI KPI Interaction](assets/kpi_interaction.gif)
-````
-
-*Demonstrates filtering, drill-down, and cross-highlighting of KPIs.*
-
----
-
-### 🔍 **Key Insights**
-
-1. **Manning Publishing** leads in distribution volume and readership across all quarters
-2. Profits decline between **May and August**, peak toward **January**, with reduced sales in December
-3. *TV Guide Magazine* shows stable performance, while *Courier & Times* peaks in **Q1 and Q2**
-4. **Discounter stores underperform**, while **railway station shops** consistently outperform
-5. Product profitability varies significantly by season and content category
-
----
-
-### 🚀 **Next Steps**
-
-- Cause-effect analysis
-- Seasonality modeling
-- Audience segmentation
-- Demand forecasting to optimize distribution and reduce stockouts
 
 ---
 
