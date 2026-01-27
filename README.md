@@ -1,19 +1,10 @@
 
----
-
-````md
 # 📊 Power BI Sales Intelligence Dashboard  
 # Interactive Analytics for Press Media Wholesale Distribution.
 
 [English](#english) | [Deutsch](#deutsch)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Analytics](https://img.shields.io/badge/Role-Business%20Intelligence%20Analyst-blue)
-![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-black)
-![Career](https://img.shields.io/badge/Career%20Transition-Software%20Dev%20→%20BI-orange)
 
----
 
 ## 🇬🇧 English
 
