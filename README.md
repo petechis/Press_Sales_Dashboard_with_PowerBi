@@ -1,16 +1,27 @@
 
 # 📊 Power BI Sales Intelligence Dashboard  
-# Interactive Analytics for Press Media Wholesale Distribution.
+### *Interactive Analytics for Press Media Wholesale Distribution*
+
+<!-- Language Anchors -->
+<a name="english"></a>
+<a name="deutsch"></a>
 
 [English](#english) | [Deutsch](#deutsch)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Analytics](https://img.shields.io/badge/Role-Business%20Intelligence%20Analyst-blue)
+![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-white)
+![Career](https://img.shields.io/badge/Career%20Transition-Software%20Dev%20→%20BI-orange)
+![Career](https://img.shields.io/badge/Purpose%20|Goal-Data%20Driven%20Analysis→%20Smart%20Decision%20Making-green)
 
+---
 
 ## 🇬🇧 English
 
 ### 🧠 **Project Overview**
 
-This Power BI dashboard demonstrates an **end-to-end Business Intelligence use case**, transforming raw transactional data into **actionable sales insights** for a simulated press media wholesale distributor.
+This Power BI dashboard demonstrates an --end-to-end Business Intelligence use case--, transforming raw transactional data into --actionable sales insights-- for a simulated press media wholesale distributor.
 
 ---
 
@@ -38,6 +49,7 @@ From a **190-column transactional dataset**, an analytics-ready data model was c
 Only **business-critical attributes** were retained for reporting and visualization.
 
 #### 🔑 **Vital Variables**
+
 - **Order_ID** – unique identifier per article  
 - **Amount** – supplied quantity to retail outlets  
 - **Quantity** – actual sales to end customers  
@@ -69,18 +81,23 @@ Only **business-critical attributes** were retained for reporting and visualizat
 ### 📈 **Data Visualizations & Storytelling**
 
 #### 🔢 **KPI Cards**
+
 - Total **Supplied Quantity**  
 - Total **Sales Quantity**  
 - Total **Profit**  
 
 #### 📊 **Bar Charts**
+
 - Profit and Amount by:
+
   - Category  
   - Sub-Category  
   - Product Name  
 
 #### 🥧 **Pie Charts**
+
 - Distribution share by:
+
   - Retail category  
   - Publishing company  
 
@@ -108,10 +125,10 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ### 🚀 **Next Steps**
 
-* Cause-effect analysis
-* Seasonality modeling
-* Audience segmentation
-* Demand forecasting to optimize distribution and reduce stockouts
+- Cause-effect analysis
+- Seasonality modeling
+- Audience segmentation
+- Demand forecasting to optimize distribution and reduce stockouts
 
 ---
 
@@ -135,9 +152,9 @@ Presseerzeugnisse besitzen einen **sehr kurzen Lebenszyklus**—nicht verkaufte 
 
 Zentrale Stakeholder wie **Geschäftsführung**, **Vertriebsleitung** und **Key Account Management** benötigen **quartalsweise Leistungskennzahlen**, um:
 
-* Distributionsmengen zu optimieren
-* Profitabilität zu steigern
-* Remissionen zu reduzieren
+- Distributionsmengen zu optimieren
+- Profitabilität zu steigern
+- Remissionen zu reduzieren
 
 ---
 
@@ -148,31 +165,31 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 
 #### 🔑 **Zentrale Variablen**
 
-* **Order_ID** – eindeutige Artikelkennung
-* **Amount** – gelieferte Menge an den Einzelhandel
-* **Quantity** – tatsächlich verkaufte Menge
-* **Profit** – Nettogewinn pro Produkt und Verkaufsstelle
-* **Category** – Vertriebskanal
-* **Sub-Category** – Presseproduktkategorie
-* **Publishing Company** – Verlag
+- **Order_ID** – eindeutige Artikelkennung
+- **Amount** – gelieferte Menge an den Einzelhandel
+- **Quantity** – tatsächlich verkaufte Menge
+- **Profit** – Nettogewinn pro Produkt und Verkaufsstelle
+- **Category** – Vertriebskanal
+- **Sub-Category** – Presseproduktkategorie
+- **Publishing Company** – Verlag
 
 ---
 
 ### 👤 **Rolle als Datenanalyst**
 
-* Ableitung geschäftsrelevanter KPIs
-* Unterstützung fundierter Entscheidungsprozesse
-* **Data Storytelling** für Fachbereiche
+- Ableitung geschäftsrelevanter KPIs
+- Unterstützung fundierter Entscheidungsprozesse
+- **Data Storytelling** für Fachbereiche
 
 ---
 
-### 📌 **Key Performance Indicators (KPIs)**
+### 📌 **Schlüssel Leistung Indicators (KPIs)**
 
-* **Profit nach Produkt-Unterkategorie**
-* **Gelieferte Menge nach Verlag**
-* **Verteilte Menge nach Vertriebskanal**
-* **Liefermenge nach Produktname**
-* **Quartalsgewinne (Q1–Q4)**
+- **Profit nach Produkt-Unterkategorie**
+- **Gelieferte Menge nach Verlag**
+- **Verteilte Menge nach Vertriebskanal**
+- **Liefermenge nach Produktname**
+- **Quartalsgewinne (Q1–Q4)**
 
 ---
 
@@ -181,23 +198,23 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 #### 🔢 **Kennzahlenkarten**
 
 * Gesamtliefermenge
-* Gesamtverkaufsmenge
-* Gesamtgewinn
+- Gesamtverkaufsmenge
+- Gesamtgewinn
 
 #### 📊 **Balkendiagramme**
 
-* Gewinn und Menge nach:
+- Gewinn und Menge nach:
 
-  * Kategorie
-  * Unterkategorie
-  * Produktname
+  - Kategorie
+  - Unterkategorie
+  - Produktname
 
 #### 🥧 **Kreisdiagramme**
 
 * Verteilungsanteile nach:
 
-  * Vertriebskanal
-  * Verlag
+  - Vertriebskanal
+  - Verlag
 
 ---
 
@@ -213,16 +230,18 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 
 ### 🚀 **Weiterführende Analysen**
 
-* Ursache-Wirkungs-Analysen
-* Saisonale Effekte
-* Zielgruppen- und Inhaltssegmentierung
-* Absatzprognosen zur Bestandsoptimierung
+- Ursache-Wirkungs-Analysen
+- Saisonale Effekte
+- Zielgruppen- und Inhaltssegmentierung
+- Absatzprognosen zur Bestandsoptimierung
 
 ---
 
 ## 💡 **Why This Project Matters**
 
-* Demonstrates a strong **Business Intelligence mindset**
-* Emphasizes **data-driven decision support**
-* Highlights **real-world analytical thinking**
-* Ideal showcase for **BI / Data Analyst roles**
+- Demonstrates a strong **Business Intelligence mindset**
+- Emphasizes **data-driven decision support**
+- Highlights **real-world analytical thinking**
+- Ideal showcase for **junior BI / Data Analyst roles**
+
+---
