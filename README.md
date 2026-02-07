@@ -1,10 +1,10 @@
 
 # 📊 First Pane: Power BI Sales Intelligence Dashboard  
-### *Interactive Analytics for Press Media Wholesale Distribution (Pete Chisamba).*
+### *Interactive Analytics for Press Media Wholesale Distribution. (Pete Chisamba)*
 
 <!-- Language Anchors -->
 
-**Get Translated Version:** [English](README.md) | [German](./translations/DE/README.md)  
+**Get Translated Version:** [English](README.md) | [German](../DE/README.md)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -111,7 +111,7 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ---
 
-### 🔍 **Key Insights**
+### 🔍 **Example Key Insights**
 
 1. **Manning Publishing** leads in distribution volume and readership across all quarters
 2. Profits decline between **May and August**, peak toward **January**, with reduced sales in December
@@ -130,6 +130,7 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ---
 
+
 ## 💡 **Why This Project Matters**
 
 - Demonstrates a strong **Business Intelligence mindset**
@@ -137,7 +138,8 @@ Only **business-critical attributes** were retained for reporting and visualizat
 - Highlights **real-world analytical thinking**
 - Ideal showcase for **junior BI / Data Analyst roles**
 
-# 📊 Power BI Supply Forecast Dashboard  
+---
+# 📊 Second Pane: Power BI Supply Forecast Dashboard  
 ### *Product Supply Evaluation & Revenue Prediction*
 
 ## 🇬🇧 English
@@ -167,7 +169,7 @@ It enables planners and executives to understand:
 
 ## 📌 KPI Cards (Top Row)
 
-- **Supply Forecast → e.g. 118K Supplied Copies**
+- **Supply Forecast → 118K**
 - **Sales Forecast**
 - **Revenue Forecast**
 
@@ -246,7 +248,7 @@ Trend view across **October → November → December**.
 
 ---
 
-## 🔍 Example Key Takeaways from the Page
+## 🔍 Key Takeaways from the Page
 
 - A small group of publishers drives a large portion of supply.
 - Revenue concentration is strongest in a few content categories.
@@ -261,7 +263,6 @@ Trend view across **October → November → December**.
 This page transforms forecast numbers into **planning intelligence**.
 
 It allows:
-
 ✔ proactive allocation  
 ✔ supplier strategy  
 ✔ risk anticipation  

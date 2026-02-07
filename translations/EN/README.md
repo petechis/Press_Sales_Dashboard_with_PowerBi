@@ -4,7 +4,7 @@
 
 <!-- Language Anchors -->
 
-**Get Translated Version:** [English](README.md) | [German](./translations/DE/README.md)
+**Get Translated Version:** [English](README.md) | [German](../DE/README.md)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -111,7 +111,7 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ---
 
-### 🔍 **Key Insights**
+### 🔍 **Example Key Insights**
 
 1. **Manning Publishing** leads in distribution volume and readership across all quarters
 2. Profits decline between **May and August**, peak toward **January**, with reduced sales in December
@@ -139,16 +139,6 @@ Only **business-critical attributes** were retained for reporting and visualizat
 - Ideal showcase for **junior BI / Data Analyst roles**
 
 ---
-Perfect — this is a **second report page**, so the README should feel like a **continuation of the same BI product**, not a new project.
-
-Below is a **ready-to-paste markdown file** that:
-✅ keeps the same badge/header style
-✅ references forecasts instead of historicals
-✅ mirrors what is actually visible in the screenshot
-✅ sounds executive & consulting level
-✅ avoids inventing metrics not present on the page
-
-
 # 📊 Second Pane: Power BI Supply Forecast Dashboard  
 ### *Product Supply Evaluation & Revenue Prediction*
 
