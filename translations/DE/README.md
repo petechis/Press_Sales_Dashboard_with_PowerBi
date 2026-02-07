@@ -1,10 +1,10 @@
 
 # 📊 Das erste Paneel: Power BI Sales Intelligence Dashboard  
-### *Interactive Analytics for Press Media Wholesale Distribution (Peter Chisamba)*
+### *Interactive Analytics for Press Media Wholesale Distribution (Peter Chisamba).*
 
 <!-- Language Anchors -->
 
-**Get Translated Version:** [German](./translations/DE/README.md) | [English](README.md)
+**Get Translated Version:** [English](./translations/EN/README.md) | [German](README.md)  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -14,7 +14,6 @@
 ![Career](https://img.shields.io/badge/Purpose%20|Goal-Data%20Driven%20Analysis→%20Smart%20Decision%20Making-green)
 
 ---
-
 
 ## 🇩🇪 Deutsch
 
@@ -59,7 +58,7 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 
 ---
 
-### 👤 **Rolle als Datenanalyst**
+### 👤 **Rolle als Business- / Datenanalyst**
 
 - Ableitung geschäftsrelevanter KPIs
 - Unterstützung fundierter Entscheidungsprozesse
@@ -81,7 +80,7 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 
 #### 🔢 **Kennzahlenkarten**
 
-* Gesamtliefermenge
+- Gesamtliefermenge
 - Gesamtverkaufsmenge
 - Gesamtgewinn
 
@@ -102,7 +101,7 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 
 ---
 
-### 🔍 **Zentrale Erkenntnisse**
+### 🔍 **Beispiel Zentrale Erkenntnisse**
 
 1. **Manning Publishing** dominiert Absatz und Leserschaft über alle Quartale
 2. Gewinne sinken zwischen **Mai und August** und steigen Richtung **Januar**
@@ -129,15 +128,6 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 - Ideal showcase for **junior BI / Data Analyst roles**
 
 ---
-Perfect — this is a **second report page**, so the README should feel like a **continuation of the same BI product**, not a new project.
-
-Below is a **ready-to-paste markdown file** that:
-✅ keeps the same badge/header style
-✅ references forecasts instead of historicals
-✅ mirrors what is actually visible in the screenshot
-✅ sounds executive & consulting level
-✅ avoids inventing metrics not present on the page
-
 ## 🇩🇪 Deutsch
 
 ## 🧠 Zweck der Seite
@@ -190,7 +180,7 @@ Ein **Quartalsfilter (Q1–Q4)** ermöglicht saisonale Simulationen und Planungs
 
 ---
 
-## 🔍 Zentrale Erkenntnisse
+## 🔍 Beispiel Zentrale Erkenntnisse
 
 - Wenige Verlage dominieren die Gesamtmenge.
 - Umsatz ist stark auf bestimmte Kategorien konzentriert.

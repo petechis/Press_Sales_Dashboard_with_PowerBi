@@ -1,10 +1,10 @@
 
 # 📊 First Pane: Power BI Sales Intelligence Dashboard  
-### *Interactive Analytics for Press Media Wholesale Distribution. (Pete Chisamba)*
+### *Interactive Analytics for Press Media Wholesale Distribution (Pete Chisamba).*
 
 <!-- Language Anchors -->
 
-**Get Translated Version:** [German](./translations/DE/README.md) | [English](README.md)
+**Get Translated Version:** [English](README.md) | [German](./translations/DE/README.md)  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -130,7 +130,6 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ---
 
-
 ## 💡 **Why This Project Matters**
 
 - Demonstrates a strong **Business Intelligence mindset**
@@ -138,18 +137,7 @@ Only **business-critical attributes** were retained for reporting and visualizat
 - Highlights **real-world analytical thinking**
 - Ideal showcase for **junior BI / Data Analyst roles**
 
----
-Perfect — this is a **second report page**, so the README should feel like a **continuation of the same BI product**, not a new project.
-
-Below is a **ready-to-paste markdown file** that:
-✅ keeps the same badge/header style
-✅ references forecasts instead of historicals
-✅ mirrors what is actually visible in the screenshot
-✅ sounds executive & consulting level
-✅ avoids inventing metrics not present on the page
-
-
-# 📊 Second Pane: Power BI Supply Forecast Dashboard  
+# 📊 Power BI Supply Forecast Dashboard  
 ### *Product Supply Evaluation & Revenue Prediction*
 
 ## 🇬🇧 English
@@ -179,7 +167,7 @@ It enables planners and executives to understand:
 
 ## 📌 KPI Cards (Top Row)
 
-- **Supply Forecast → 118K**
+- **Supply Forecast → e.g. 118K Supplied Copies**
 - **Sales Forecast**
 - **Revenue Forecast**
 
@@ -258,7 +246,7 @@ Trend view across **October → November → December**.
 
 ---
 
-## 🔍 Key Takeaways from the Page
+## 🔍 Example Key Takeaways from the Page
 
 - A small group of publishers drives a large portion of supply.
 - Revenue concentration is strongest in a few content categories.
@@ -273,6 +261,7 @@ Trend view across **October → November → December**.
 This page transforms forecast numbers into **planning intelligence**.
 
 It allows:
+
 ✔ proactive allocation  
 ✔ supplier strategy  
 ✔ risk anticipation  
