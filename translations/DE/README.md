@@ -4,7 +4,7 @@
 
 <!-- Language Anchors -->
 
-**Get Translated Version:** [English](./translations/EN/README.md) | [German](README.md)  
+**Get Translated Version:** [English](../EN/README.md) | [German](README.md)  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
