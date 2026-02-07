@@ -1,9 +1,10 @@
 
-# 📊 Power BI Sales Intelligence Dashboard  
-### *Interactive Analytics for Press Media Wholesale Distribution*
+# 📊 Das erste Paneel: Power BI Sales Intelligence Dashboard  
+### *Interactive Analytics for Press Media Wholesale Distribution (Peter Chisamba)*
 
 <!-- Language Anchors -->
-**Übersetzte Version abrufen:** [Deutsch](README.md) | [Englisch](../EN/README.md)
+
+**Get Translated Version:** [German](./translations/DE/README.md) | [English](README.md)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -13,6 +14,7 @@
 ![Career](https://img.shields.io/badge/Purpose%20|Goal-Data%20Driven%20Analysis→%20Smart%20Decision%20Making-green)
 
 ---
+
 
 ## 🇩🇪 Deutsch
 
@@ -127,3 +129,82 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 - Ideal showcase for **junior BI / Data Analyst roles**
 
 ---
+Perfect — this is a **second report page**, so the README should feel like a **continuation of the same BI product**, not a new project.
+
+Below is a **ready-to-paste markdown file** that:
+✅ keeps the same badge/header style
+✅ references forecasts instead of historicals
+✅ mirrors what is actually visible in the screenshot
+✅ sounds executive & consulting level
+✅ avoids inventing metrics not present on the page
+
+## 🇩🇪 Deutsch
+
+## 🧠 Zweck der Seite
+
+Diese Dashboard-Seite erweitert die BI-Lösung um eine **zukunftsorientierte Sicht auf Liefer- und Umsatzprognosen**.
+
+Sie unterstützt Entscheidungsträger dabei zu verstehen:
+
+- wo zukünftige Mengen konzentriert sind  
+- welche Verlage dominieren  
+- wie Absatz- und Umsatzprognosen zusammenhängen  
+- wie sich Trends über Monate und Quartale entwickeln  
+
+---
+
+## 🎯 Beantwortete Managementfragen
+
+- Welche **Unterkategorien** bringen voraussichtlich den meisten Umsatz?
+- Welche **Verlage** bestimmen die Liefermengen?
+- Stimmen Absatz- und Umsatzerwartungen überein?
+- Welche **Vertriebskanäle** erhalten den größten Anteil?
+- Steigt oder sinkt die Nachfrage im Zeitverlauf?
+
+---
+
+## 📌 KPI-Karten
+
+- **Liefermengen-Prognose**
+- **Absatz-Prognose**
+- **Umsatz-Prognose**
+
+Sie liefern einen schnellen Überblick über das erwartete Geschäftsvolumen.
+
+---
+
+## 🎛 Zeitsteuerung
+
+Ein **Quartalsfilter (Q1–Q4)** ermöglicht saisonale Simulationen und Planungsvergleiche.
+
+---
+
+## 📊 Visualisierungen & Bedeutung
+
+- Erwarteter Umsatz nach Unterkategorie  
+- Lieferanteil nach Verlag  
+- Umsatz vs. Absatz  
+- Prognostizierte Mengen je Vertriebskanal  
+- Liefermenge je Produkt  
+- Monatsentwicklung Absatz vs. Umsatz  
+
+---
+
+## 🔍 Zentrale Erkenntnisse
+
+- Wenige Verlage dominieren die Gesamtmenge.
+- Umsatz ist stark auf bestimmte Kategorien konzentriert.
+- November stellt den Prognosehöhepunkt dar.
+- Teilweise hohe Mengen ohne entsprechenden Umsatzanstieg.
+- Starke Abhängigkeit vom Bahnhofshandel.
+
+---
+
+## 🛠 Analytischer Mehrwert
+
+Diese Seite übersetzt Prognosen in **konkrete Planungsgrundlagen** und ermöglicht:
+
+✔ bessere Allokationsentscheidungen  
+✔ strategische Lieferantenbewertung  
+✔ frühzeitige Risikoerkennung  
+✔ höhere Planungssicherheit

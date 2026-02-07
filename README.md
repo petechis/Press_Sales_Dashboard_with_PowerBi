@@ -1,6 +1,6 @@
 
-# 📊 Power BI Sales Intelligence Dashboard  
-### *Interactive Analytics for Press Media Wholesale Distribution*
+# 📊 First Pane: Power BI Sales Intelligence Dashboard  
+### *Interactive Analytics for Press Media Wholesale Distribution. (Pete Chisamba)*
 
 <!-- Language Anchors -->
 
@@ -130,110 +130,6 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ---
 
-## 🇩🇪 Deutsch
-
-### 🧠 **Projektübersicht**
-
-Dieses Power-BI-Dashboard zeigt einen **vollständigen Business-Intelligence-Anwendungsfall**, bei dem Rohdaten in **entscheidungsrelevante Vertriebs-Insights** für einen simulierten Presse-Großhändler überführt werden.
-
----
-
-### 📰 **Geschäftsszenario**
-
-Ein regionaler Großhändler fungiert als Vermittler zwischen **Verlagen** und **Einzelhandelsfilialen** wie Bahnhofsshops, Tankstellen, Discountern und Kiosken.
-
-Presseerzeugnisse besitzen einen **sehr kurzen Lebenszyklus**—nicht verkaufte Exemplare gelten nach einem festen Stichtag als **Remission**.
-
----
-
-### 🎯 **Fachlicher Anwendungsfall**
-
-Zentrale Stakeholder wie **Geschäftsführung**, **Vertriebsleitung** und **Key Account Management** benötigen **quartalsweise Leistungskennzahlen**, um:
-
-- Distributionsmengen zu optimieren
-- Profitabilität zu steigern
-- Remissionen zu reduzieren
-
----
-
-### 🗄️ **Datenmodell & ETL**
-
-Aus einer **190-spaltigen Transaktionsdatenbank** wurde mittels ETL ein **analyseoptimiertes Datenmodell** erstellt.
-Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
-
-#### 🔑 **Zentrale Variablen**
-
-- **Order_ID** – eindeutige Artikelkennung
-- **Amount** – gelieferte Menge an den Einzelhandel
-- **Quantity** – tatsächlich verkaufte Menge
-- **Profit** – Nettogewinn pro Produkt und Verkaufsstelle
-- **Category** – Vertriebskanal
-- **Sub-Category** – Presseproduktkategorie
-- **Publishing Company** – Verlag
-
----
-
-### 👤 **Rolle als Datenanalyst**
-
-- Ableitung geschäftsrelevanter KPIs
-- Unterstützung fundierter Entscheidungsprozesse
-- **Data Storytelling** für Fachbereiche
-
----
-
-### 📌 **Schlüssel Leistung Indicators (KPIs)**
-
-- **Profit nach Produkt-Unterkategorie**
-- **Gelieferte Menge nach Verlag**
-- **Verteilte Menge nach Vertriebskanal**
-- **Liefermenge nach Produktname**
-- **Quartalsgewinne (Q1–Q4)**
-
----
-
-### 📈 **Visualisierungen & Storytelling**
-
-#### 🔢 **Kennzahlenkarten**
-
-* Gesamtliefermenge
-- Gesamtverkaufsmenge
-- Gesamtgewinn
-
-#### 📊 **Balkendiagramme**
-
-- Gewinn und Menge nach:
-
-  - Kategorie
-  - Unterkategorie
-  - Produktname
-
-#### 🥧 **Kreisdiagramme**
-
-* Verteilungsanteile nach:
-
-  - Vertriebskanal
-  - Verlag
-
----
-
-### 🔍 **Zentrale Erkenntnisse**
-
-1. **Manning Publishing** dominiert Absatz und Leserschaft über alle Quartale
-2. Gewinne sinken zwischen **Mai und August** und steigen Richtung **Januar**
-3. *TV Guide Magazine* verkauft sich stabil, *Courier & Times* erzielt Spitzen in **Q1 und Q2**
-4. **Discounter schneiden schwach ab**, Bahnhofsshops performen konstant stark
-5. Die Profitabilität variiert stark je nach Saison und Inhaltstyp
-
----
-
-### 🚀 **Weiterführende Analysen**
-
-- Ursache-Wirkungs-Analysen
-- Saisonale Effekte
-- Zielgruppen- und Inhaltssegmentierung
-- Absatzprognosen zur Bestandsoptimierung
-
----
 
 ## 💡 **Why This Project Matters**
 
@@ -241,5 +137,145 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
 - Emphasizes **data-driven decision support**
 - Highlights **real-world analytical thinking**
 - Ideal showcase for **junior BI / Data Analyst roles**
+
+---
+Perfect — this is a **second report page**, so the README should feel like a **continuation of the same BI product**, not a new project.
+
+Below is a **ready-to-paste markdown file** that:
+✅ keeps the same badge/header style
+✅ references forecasts instead of historicals
+✅ mirrors what is actually visible in the screenshot
+✅ sounds executive & consulting level
+✅ avoids inventing metrics not present on the page
+
+
+# 📊 Second Pane: Power BI Supply Forecast Dashboard  
+### *Product Supply Evaluation & Revenue Prediction*
+
+## 🇬🇧 English
+
+## 🧠 Page Purpose
+
+This dashboard page extends the core BI solution by focusing on **forward-looking supply and revenue forecasts**.
+
+It enables planners and executives to understand:
+
+- where future supply is concentrated  
+- which publishers dominate distribution  
+- how revenue expectations compare to sales  
+- how performance evolves across months and quarters  
+
+---
+
+## 🎯 Executive Questions Answered
+
+- Which **sub-categories** are expected to generate the highest revenue?
+- Which **publishers** will drive the largest supply share?
+- Are sales forecasts aligned with revenue expectations?
+- Which **retail channels** will absorb the majority of stock?
+- Is demand improving or declining month over month?
+
+---
+
+## 📌 KPI Cards (Top Row)
+
+- **Supply Forecast → 118K**
+- **Sales Forecast**
+- **Revenue Forecast**
+
+These provide an instant executive snapshot of expected business volume.
+
+---
+
+## 🎛 Time Navigation
+
+A **Quarter selector (Q1–Q4)** allows decision-makers to simulate seasonal planning and understand how allocations change across the year.
+
+---
+
+## 📊 Visualizations & Business Meaning
+
+### Expected Revenue by Sub-Category
+Ranks content types such as **Sports, Home, Fashion** by predicted revenue contribution.
+
+➡ Helps decide:
+- assortment strategy  
+- shelf prioritization  
+- promotional focus
+
+---
+
+### Supply Amount by Publisher
+Donut chart showing distribution share among:
+
+- Manning  
+- Wiley  
+- Penguin  
+- Elsevier  
+- Arcadia  
+
+➡ Used for supplier dependency evaluation and negotiation preparation.
+
+---
+
+### Revenue vs. Sales by Sub-Category
+Cluster comparison between expected sales volume and revenue.
+
+➡ Reveals:
+- monetization efficiency  
+- pricing vs. volume dynamics  
+- potential margin pressure
+
+---
+
+### Predicted Supply by Retail Category
+Shows allocation to:
+
+- Central Station  
+- Supermarket  
+- Discounter  
+
+➡ Supports logistics and channel prioritization.
+
+---
+
+### Predicted Supply by Product Name
+Identifies blockbuster titles (e.g., TV Guide, Times) versus niche products.
+
+➡ Critical for:
+- print run planning  
+- return-risk mitigation
+
+---
+
+### Sales vs. Revenue Forecast by Month
+Trend view across **October → November → December**.
+
+➡ Highlights:
+- peak demand periods  
+- upcoming slowdowns  
+- timing of operational pressure
+
+---
+
+## 🔍 Key Takeaways from the Page
+
+- A small group of publishers drives a large portion of supply.
+- Revenue concentration is strongest in a few content categories.
+- November appears as the forecasted peak month.
+- Some categories show high volume but limited revenue lift.
+- Distribution is heavily dependent on central station channels.
+
+---
+
+## 🛠 Analytical Value
+
+This page transforms forecast numbers into **planning intelligence**.
+
+It allows:
+✔ proactive allocation  
+✔ supplier strategy  
+✔ risk anticipation  
+✔ improved financial predictability
 
 ---
