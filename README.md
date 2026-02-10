@@ -4,7 +4,7 @@
 
 <!-- Language Anchors -->
 
-**Get Translated Version:** [English](README.md) | [German](../DE/README.md)
+**Get Translated Version:** [English](README.md) | [German](./translations/DE/README.md)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -105,11 +105,12 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ![Power BI KPI Interaction:](./img/Performance_Overview.png)
 
-*Demonstrates filtering, drill-down, and cross-highlighting of KPIs.*
+*1. Sheet: Demonstrates Performance Marketing, filtering, drill-down, and cross-highlighting of KPIs.*
 
 ![Product Supply Evaluation:](./img/Product_Supply_Evaluation.png)
 
-Demonstrates filtering, drill-down, and cross-highlighting of KPIs.*9
+*2. Sheet: Demonstrates Produkt Supply, filtering, drill-down, and cross-highlighting of KPIs.*
+
 ---
 
 ### 🔍 **Example Key Insights**

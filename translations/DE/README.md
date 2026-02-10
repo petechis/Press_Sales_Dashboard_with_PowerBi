@@ -100,6 +100,17 @@ Beibehalten wurden ausschließlich **geschäftsrelevante Attribute**.
   - Verlag
 
 ---
+## 🎥 **Interaktive KPI Demonstration**
+
+![Power BI KPI Interaction:](./img/Performance_Overview.png)
+
+*1. Blatt: Demonstriert Performance-Marketing, Filterung, Drilldown und Cross-Highlighting von KPIs.*
+
+![Product Supply Evaluation:](./img/Product_Supply_Evaluation.png)
+
+*2. Blatt: Demonstriert Produktversorgung, Filterung, Drilldown und Cross-Highlighting von KPIs.*
+
+---
 
 ### 🔍 **Beispiel Zentrale Erkenntnisse**
 
