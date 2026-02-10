@@ -103,12 +103,13 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ### 🎥 **Interactive KPI Demonstration**
 
-```md
-![Power BI KPI Interaction](assets/kpi_interaction.gif)
-````
+![Power BI KPI Interaction:](./img/Performance_Overview.png)
 
 *Demonstrates filtering, drill-down, and cross-highlighting of KPIs.*
 
+![Product Supply Evaluation:](./img/Product_Supply_Evaluation.png)
+
+Demonstrates filtering, drill-down, and cross-highlighting of KPIs.*9
 ---
 
 ### 🔍 **Example Key Insights**
