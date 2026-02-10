@@ -103,11 +103,12 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ## 🎥 **Interactive KPI Demonstration**
 
-![Power BI KPI Interaction:](./img/Performance_Overview.png)
+![Performance Overview](../../img/Performance_Overview.png)
 
 *1. Sheet: Demonstrates Performance Marketing, filtering, drill-down, and cross-highlighting of KPIs.*
 
-![Product Supply Evaluation:](./img/Product_Supply_Evaluation.png)
+![Product Supply Evaluation](../../img/Product_Supply_Evaluation.png)
+
 
 *2. Sheet: Demonstrates Produkt Supply, filtering, drill-down, and cross-highlighting of KPIs.*
 
