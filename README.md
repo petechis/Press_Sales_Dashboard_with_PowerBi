@@ -101,7 +101,7 @@ Only **business-critical attributes** were retained for reporting and visualizat
 
 ---
 
-### 🎥 **Interactive KPI Demonstration**
+## 🎥 **Interactive KPI Demonstration**
 
 ![Power BI KPI Interaction:](./img/Performance_Overview.png)
 
